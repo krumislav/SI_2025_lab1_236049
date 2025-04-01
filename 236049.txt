@@ -1,0 +1,31 @@
+4. mkdir SI_2025_lab1_236049
+cd SI_2025_lab1_236049
+git init
+5. git remote add origin git@github.com:krumislav/SI_2025_lab1_236049.git
+6. git add README.md
+git commit -m "Initial commit"
+7. git add SI2025Lab1Main.java
+git commit -m "Add starter code
+8.git push -u origin master
+13. git fetch origin
+14. git checkout 1-remove-a-task-by-name
+git branch
+* 1-remove-a-task-by-name
+  master
+git add SI2025Lab1Main.java
+git commit -m "implement removeTask"
+git push origin
+git checkout 2-find-all-completed-tasks
+git add SI2025Lab1Main.java
+ git commit -m "implement getCompletedTasks"
+git push origin 2-find-all-completed-tasks
+git checkout 7-count-tasks-per-category
+git add SI2025Lab1Main.java
+git commit -m "implement countTasksPerCategory"
+git push origin 7-count-tasks-per-category
+22. git checkout master
+ git pull origin master
+git merge 2-find-all-completed-tasks
+Auto-merging SI2025Lab1Main.java
+Merge made by the 'ort' strategy.
+23.  git push origin master

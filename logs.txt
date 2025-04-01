@@ -1,0 +1,15 @@
+*   6026a55 Merge branch '2-find-all-completed-tasks'
+|\  
+| * 4f1cf24 implement getCompletedTasks
+* |   4b73915 Merge pull request #12 from krumislav/7-count-tasks-per-category
+|\ \  
+| * | 798c1fd implement countTasksPerCategory
+| |/  
+* |   a47c6c1 Merge pull request #10 from krumislav/1-remove-a-task-by-name
+|\ \  
+| |/  
+|/|   
+| * dc3621a implement removeTask
+|/  
+* ab78a63 Add starter code
+* 6922a3b Initial commit
